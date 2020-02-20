@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "KMDB": {
@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "KMDB"
+    }
+  },
+  "defaultProject": "KMDB",
+  "cli": {
+    "analytics": "3b01262f-1a66-48a2-8c40-71e483ac6f01"
+  }
 }
